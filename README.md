@@ -1,2 +1,2 @@
-# neurobio_resources
-Homeworks and TA section worksheets written for UW neurobio course
+# Neurobio Resources
+Homeworks and TA section worksheets written for UW neurobio course winter quarter 2021
